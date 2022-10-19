@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lavin Hirani
+N;CHARSET=UTF-8:;Lavin Hirani;;;
+EMAIL;CHARSET=UTF-8;type=Email:lavin@mdppartners.com
+TEL;type=Phone:+91-9768055663
+LABEL;CHARSET=UTF-8;type=Bandra Office Address:Bandra Office Address
+ADR;CHARSET=UTF-8;type=Bandra Office Address:;;303\, Kanhaiya Tower\, Linking Road\, Bandra West;Mumbai;Maharashtra;400050;India
+TITLE;CHARSET=UTF-8:Partner & Practice Head
+ORG;CHARSET=UTF-8:MDP & Partners
+URL;type=Website;CHARSET=UTF-8:https://www.mdppartners.co.in/
+X-SOCIALPROFILE;type=linkedIn:https://www.linkedin.com/in/lavin-hirani-8a021514/
+SOURCE;CHARSET=UTF-8:https://scnv.io/yoGH?qr=1
+REV:2022-08-04T13:21:41.071Z
+END:VCARD
